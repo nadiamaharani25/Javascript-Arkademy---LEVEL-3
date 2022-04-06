@@ -34,7 +34,7 @@ genap (10);
 
 // =============== SOAL 3 ===============
 let nama= "Nadia Maharani";
-let usia= 24;
+let ukuranSepatu= 41;
 let is_female= true;
 let hobi= [1,2,3];
 let alamat= {
@@ -46,7 +46,7 @@ function cekParameter (param) {
   if (param == 'Nadia Maharani') {
     return console.log ('Parameter' + " " + param + " " + 'adalah String!');
   } else 
-  if (param == 24) {
+  if (param == 41) {
     return console.log ('Parameter' + " " + param + " " + 'adalah Number!');
   } else
   if (param == true) {
