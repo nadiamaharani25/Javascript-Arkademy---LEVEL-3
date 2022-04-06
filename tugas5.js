@@ -14,7 +14,6 @@ var hobi=['Desain', 'Ngoding', 'Menulis', 'Traveling', 'Bermain Basket'];
 
 var saya= {
   nama: 'Nadia Maharani',
-  umur: 24,
   alamat: 'Jl.urip sumoharjo, Palembang',
   hobi: hobi
 };
@@ -26,50 +25,36 @@ var sekolah= [
   {
     namaSekolah:'TK Aisyiyah Palembang',
     jurusan: undefined,
-    tahunMasuk: 2000,
-    tahunKeluar: 2002
   },
 
   {
     namaSekolah:'SD Negeri 68 Palembang',
     jurusan: undefined,
-    tahunMasuk: 2002,
-    tahunKeluar: 2004
   },
 
   {
     namaSekolah:'SD Negeri Gunung Sulah Bandar Lampung',
     jurusan: undefined,
-    tahunMasuk: 2004,
-    tahunKeluar: 2006
   },
 
   {
     namaSekolah:'SD Negeri 1 Sukarame Bandar Lampung',
     jurusan: undefined,
-    tahunMasuk: 2006,
-    tahunKeluar: 2008
   },
 
   {
     namaSekolah:'SMP Negeri 12 Bandar Lampung',
     jurusan: undefined,
-    tahunMasuk: 2009,
-    tahunKeluar: 2011
   },
 
   {
     namaSekolah:'SMA Negeri 12 Bandar Lampung',
     jurusan: 'IPA',
-    tahunMasuk: 2011,
-    tahunKeluar: 2014
   },
 
   {
     namaSekolah:'UIN Raden Fatah Palembang',
     jurusan: 'S1 Sistem Informasi',
-    tahunMasuk: 2015,
-    tahunKeluar: 'Sekarang'
   }
 ];
 
